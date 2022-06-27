@@ -7,7 +7,7 @@ I am a self-taught software developer. I started with Java/Android, passed in di
 * 🖥️  See my portfolio at [my google site.](http://https://sites.google.com/view/haidarmehsen/home)
 * ✉️  You can contact me at [haidarrmehsen@gmail.com](mailto:haidarrmehsen@gmail.com)
 * 🧠  I'm learning Flutter Internals, FP in Scala (and in general).
-* ⚡  I like reading, walking in the calm nature.
+* ⚡  I like reading and walking in the calm nature.
 
 
 ### Socials
