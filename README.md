@@ -4,7 +4,7 @@ Hi 👋 My name is Haidar Mehsen
 I am a self-taught software developer. I started with Java/Android, passed in different frameworks/stages like Spring Boot, FP in Scala, and currently landed at the awesome framework Flutter.
 
 * 🌍  I'm based in Beirut, Lebanon.
-* 🖥️  See my portfolio at [my google site.](http://https://sites.google.com/view/haidarmehsen/home)
+* 🖥️  See my portfolio at [my google site.](https://sites.google.com/view/haidarmehsen/home)
 * ✉️  You can contact me at [haidarrmehsen@gmail.com](mailto:haidarrmehsen@gmail.com)
 * 🧠  I'm learning Flutter Internals, FP in Scala (and in general).
 * ⚡  I like reading and walking in the calm nature.
