@@ -1,18 +1,44 @@
-Hi 👋 My name is Haidar Mehsen
-==============================
+Hi there, I'm Haidar Mehsen 👋
 
-I am a Computer Communications Engineer, and a self-taught software developer. I started with Java/Android, passed in different frameworks/stages like Spring Boot, FP in Scala, and currently landed at the awesome framework Flutter.
+## About Me
 
-* 🌍  I'm based in Beirut, Lebanon.
-* 🖥️  See my portfolio at [my google site.](https://sites.google.com/view/haidarmehsen/home)
-* ✉️  You can contact me at [haidarrmehsen@gmail.com](mailto:haidarrmehsen@gmail.com)
-* 🧠  I'm learning Flutter Internals, FP in Scala (and in general).
-* ⚡  I like reading and walking in the calm nature.
+I'm a software engineer based in Beirut, Lebanon. My background is in Computer Communications Engineering, but I'm passionate about all things software development. I have experience working on web and e-commerce development projects, as well as developing mobile applications. I'm always eager to learn new technologies and expand my skill set.
 
+## Skills and Technologies
 
-### Socials
+Here are some of the key technologies and tools that I'm proficient in or have worked with:
 
-<p align="left"> <a href="https://www.github.com/Haidar0096" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/haidar-mehsen-25a690187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9142279/haidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+- Java
+- Dart/Flutter
+- Android
+- GIT/Github Actions
+- Spring Boot/JUnit Jupiter/Hibernate
+- C/C++/CMake
+- Javascript/NodeJS/Express/Puppeteer
+- Scala/Functional Programming
+- SQL
+- Firebase/Firestore
+- Python/Flask
+- ASP.NET/C#
+- AngularJS/Redux
+- Linux/Command Line
 
-### Become a Supporter
+## Projects
+
+Here are some projects that I've worked on:
+
+- **Voice Changer App**: A mobile app that records, plays, and manipulates sound using Flutter.
+- **Controllable Widgets Package**: A Flutter package that makes it easier to reuse animated widgets with less boilerplate.
+- **Batch Photo Editor**: A photo editor and generator for Linux and Windows using Flutter.
+- **Image Magick FFI Package**: A Dart package that ports the famous ImageMagick C library to Dart.
+
+## Contact Me
+
+- 📫 Reach me at haidarrmehsen@gmail.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/haidar-mehsen-25a690187)
+
+## Support Me
+
+If you like my work and would like to support me, consider buying me a coffee:
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/haidarmehsen)
