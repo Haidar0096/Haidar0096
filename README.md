@@ -6,7 +6,7 @@ Check out my repo here to see some exciting and fun projects, and don't hesitate
 
 ## Contact Me
 
-- 📫 Reach me at haidarrmehsen@gmail.com
+- 📫 Reach me at contact.hmehsen@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/haidarmehsen)
 
 ## Support Me
